@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "hurtfpsdrop",
+  "version": "${version}",
+  "name": "hurtfpsdrop",
+  "description": "this mod will drop your fps when you get hurt",
+  "authors": [
+    "@PPekKunGzDev",
+    "ClaudeAI",
+    "UnunYY"
+  ],
+  "contact": {
+    "homepage": "https://ppekkungz.in.th",
+    "sources": "http://github.com/PPekKunGz/FPS-Drop-When-You-Hurt",
+    "issues": "http://github.com/PPekKunGz/FPS-Drop-When-You-Hurt/issues"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.ppekkungz.client.HurtUtilsClient"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "hurtfpsdrop.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
