@@ -6,13 +6,13 @@
 this mod will drop your fps when you get hurt
 
 ### **Command**
-/fpshealthmod - Show current status
-/fpshealthmod help - Show this help
-/fpshealthmod setmax <fps> - Set maximum FPS (full health)
-/fpshealthmod setmin <fps> - Set minimum FPS (zero health)
-/fpshealthmod toggle - Toggle the mod on/off
-/fpshealthmod toggle <true/false> - Set mod state
-/fpshealthmod status - Show current configuration
+/fpshealthmod - Show current status <br/>
+/fpshealthmod help - Show this help <br/>
+/fpshealthmod setmax <fps> - Set maximum FPS (full health) <br/>
+/fpshealthmod setmin <fps> - Set minimum FPS (zero health) <br/>
+/fpshealthmod toggle - Toggle the mod on/off <br/>
+/fpshealthmod toggle <true/false> - Set mod state <br/>
+/fpshealthmod status - Show current configuration <br/>
 ---
 
 ![](https://cdn-dms.mckimkung.in.th/1i784zu8m/Screenshot%202025-02-24%20202321.png)
