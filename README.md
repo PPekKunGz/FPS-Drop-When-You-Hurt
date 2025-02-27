@@ -1,5 +1,9 @@
 ![](https://cdn-dms.mckimkung.in.th/1i4orbucg/fpsdrop-thumbnail.png)
 
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/fps-drop-when-you-hurt) [![Requires Fabric API](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_vector.svg)](https://modrinth.com/mod/fabric-api)
+
+Please read the documentation located [here](https://github.com/PPekKunGz/FPS-Drop-When-You-Hurt/wiki)
+
 ---
 
 ### **About**
